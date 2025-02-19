@@ -1,4 +1,4 @@
-import styles from "./myComponent.module.css";
+import styles from "./MyComponent.module.css";
 import { useRef,useEffect, useState } from "react";
  import Chart from "../Chart/Chart";
 
